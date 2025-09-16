@@ -116,10 +116,6 @@ _(Replace the above link with the exact dataset URL you used.)_
 
 ---
 
-### ✅ Next Steps
+### ✅ Dashboard
 
-- Save this text in a file called **`README.md`** in your GitHub repository.
-- You can add images (plots or Tableau screenshots) by storing them in a folder like `images/` and linking them in the README using markdown syntax:
-  ```
-  ![Dasboard Image](https://github.com/zainab-sk/Sales-and-Product-Performance-Analysis/blob/main/image/Dashboard.png)
-  ```
+![Dashboard Image](image/Dashboard.png)
